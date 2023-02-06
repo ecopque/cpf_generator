@@ -3,4 +3,4 @@ Programa que gera novos CPFs de acordo com as regras da Receita Federal do Brasi
 
 Obs: código base de "Validador_CPF" em meu repositório.
 
-Obs2: se quiserem gerar em quantidade maior, basta utilizar o for + range(100). Não esqueçam de identar (tudo dentro do for).
+Obs2: se quiserem gerar uma quantidade maior de CPFs, basta utilizar o "for" + "range(qtde)". Não esqueçam de identar (tudo dentro do for). Chama!
