@@ -4,8 +4,8 @@ This Python script generates new CPFs in accordance with the rules of the Federa
 
 ## Usage
 
-To generate a new CPF, simply run the script. The generated CPF will be displayed in the console.
+- To generate a new CPF, simply run the script. The generated CPF will be displayed in the console.
 
 ## Note
 
-This program serves as the foundation for the "Validador_CPF" script available in this repository. It's part of a series of scripts aimed at studying CPF validation and generation.
+- This program serves as the foundation for the "Validador_CPF" script available in this repository. It's part of a series of scripts aimed at studying CPF validation and generation.
