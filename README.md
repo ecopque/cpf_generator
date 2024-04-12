@@ -1,4 +1,4 @@
-### CPF Generator
+# CPF Generator
 
 This Python script generates new CPFs in accordance with the rules of the Federal Revenue of Brazil. Please note that this program is solely intended for educational purposes and is not meant to be used for any illegal activities.
 
