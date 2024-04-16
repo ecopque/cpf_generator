@@ -8,4 +8,4 @@ This Python script generates new CPFs in accordance with the rules of the Federa
 
 ## Note
 
-- This program serves as the foundation for the "Validador_CPF" script available in this repository. It's part of a series of scripts aimed at studying CPF validation and generation.
+This program serves as the foundation for the "Validador_CPF" script available in this repository. It's part of a series of scripts aimed at studying CPF validation and generation.
