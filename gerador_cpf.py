@@ -24,3 +24,5 @@ resultado2 = resto_div2 if resto_div2 <= 9 else 0
 
 novo_cpf = f'{nove_digitos}{resultado}{resultado2}'
 print(novo_cpf)
+
+# Edson Copque | https://linktr.ee/edsoncopque
